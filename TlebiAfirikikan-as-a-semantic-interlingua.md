@@ -1,0 +1,1 @@
+what started as a project to translate every single west African language at the same time has now evolved into a collaborative effort to solve Arbitrary translation between any Arbitrary language L. TlebiAfirikikan is the Semantic Interlingua. 
